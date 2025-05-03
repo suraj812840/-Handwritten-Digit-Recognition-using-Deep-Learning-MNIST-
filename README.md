@@ -1,0 +1,2 @@
+# -Handwritten-Digit-Recognition-using-Deep-Learning-MNIST-
+ This project demonstrates the use of deep learning, specifically Convolutional Neural Networks (CNNs), to recognize handwritten digits using the famous MNIST dataset. The MNIST dataset consists of 70,000 grayscale images of handwritten digits (0–9), each of size 28x28 pixels. These images are widely used as a benchmark in the fields of machine L.
